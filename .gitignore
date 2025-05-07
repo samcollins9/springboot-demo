@@ -59,3 +59,9 @@ out/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+# Build artifacts
+app.zip
+build/
+deploy/
+*.jar
